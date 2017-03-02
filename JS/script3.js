@@ -97,7 +97,10 @@ $(function() {
       x:0,
       y:1,
       traceorder: 'normal',
-      bgcolor: 'rgba(0,0,0,0)'
+      bgcolor: 'rgba(0,0,0,0)',
+      font: {
+        size: 10
+      }
     }
   };
 
