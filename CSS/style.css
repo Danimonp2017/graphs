@@ -8,6 +8,11 @@
   border: solid 1px black;
 }
 
+.col-md-12 {
+  display: flex;
+  height: 90vh;
+}
+
 button#back {
   position: absolute;
   left: 20px;
